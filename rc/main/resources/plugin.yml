@@ -1,5 +1,5 @@
 name: RppCall
 version: 1.0
 main: fr.exemple.rppcall.RppCall
-api-version: "1.21"
+api-version: "26.3"
 softdepend: [RppBot]
